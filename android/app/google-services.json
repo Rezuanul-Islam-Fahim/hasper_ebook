@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "121073413143",
+    "project_id": "hasper-ebook",
+    "storage_bucket": "hasper-ebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121073413143:android:372e90d5c5f921922f8052",
+        "android_client_info": {
+          "package_name": "com.rezuanulfahim.hasper_ebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121073413143-34n2m8mls8jnmih132m7lof87vfv00s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HNJksTJiZhMrW_9f2KMunU9tRXjMCMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121073413143-34n2m8mls8jnmih132m7lof87vfv00s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121073413143:android:4f60aae18f988efb2f8052",
+        "android_client_info": {
+          "package_name": "com.rezuanulfahim.hasper_ebook_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121073413143-34n2m8mls8jnmih132m7lof87vfv00s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_HNJksTJiZhMrW_9f2KMunU9tRXjMCMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121073413143-34n2m8mls8jnmih132m7lof87vfv00s5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
