@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:hasper_ebook/models/book.dart';
 import 'package:hasper_ebook/repositories/db_repository.dart';
 import 'package:hasper_ebook/screens/book_details_screen/book_details_screen.dart';
@@ -15,7 +16,7 @@ class Search extends SearchDelegate {
           ),
       appBarTheme: AppBarTheme(
         backgroundColor: Color(0xFF1d212b),
-        brightness: Brightness.dark,
+        systemOverlayStyle: SystemUiOverlayStyle.light,
       ),
       inputDecorationTheme: InputDecorationTheme(
         hintStyle: TextStyle(color: Colors.white70),

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 ThemeData theme() {
   return ThemeData(
@@ -6,7 +7,7 @@ ThemeData theme() {
     appBarTheme: AppBarTheme(
       backgroundColor: Color(0xFF1d212b),
       elevation: 0,
-      brightness: Brightness.dark,
+      systemOverlayStyle: SystemUiOverlayStyle.light,
     ),
     textTheme: ThemeData.light().textTheme.copyWith(
           headline5: TextStyle(
