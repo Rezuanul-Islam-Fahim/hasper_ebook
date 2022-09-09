@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.rezuanulfahim.hasper_ebook">
    <application
-        android:label="hasper_ebook"
+        android:label="Hasper EBook"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
