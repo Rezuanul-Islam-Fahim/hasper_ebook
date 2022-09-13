@@ -8,7 +8,7 @@ An E-Book mobile app for Android & IOS devices built with Dart & Google's Flutte
 
 ### Support this project
 
-[![GitHub stars](https://img.shields.io/github/stars/rezuanul-islam-fahim/hasper_ebook?style=social)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/stargazers) [![GitHub forks](https://img.shields.io/github/forks/rezuanul-islam-fahim/hasper_ebook?style=social)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/network/members) [![GitHub watchers](https://img.shields.io/github/watchers/rezuanul-islam-fahim/hasper_ebook?style=social)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/watchers) [![License](https://img.shields.io/github/license/rezuanul-islam-fahim/hasper_ebook)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/rezuanul-islam-fahim/hasper_ebook?style=social)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/stargazers) [![GitHub forks](https://img.shields.io/github/forks/rezuanul-islam-fahim/hasper_ebook?style=social)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/network/members) [![GitHub watchers](https://img.shields.io/github/watchers/rezuanul-islam-fahim/hasper_ebook?style=social)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/watchers) [![License](https://img.shields.io/github/license/rezuanul-islam-fahim/hasper_ebook)](https://github.com/Rezuanul-Islam-Fahim/hasper_ebook/blob/master/LICENSE.md)
 
 ## Screenshots
 
