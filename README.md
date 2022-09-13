@@ -1,6 +1,6 @@
 # Hasper EBook
 
-Hasper EBook mobile app for Android & IOS devices built with Dart & Google's Flutter.
+An E-Book mobile app for Android & IOS devices built with Dart & Google's Flutter.
 
 <img width="80%" src="screenshots/banner.png">
 
