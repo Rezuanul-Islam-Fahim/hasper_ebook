@@ -44,7 +44,7 @@ class BookDetailsScreen extends StatelessWidget {
                     children: [
                       Text(
                         'Description',
-                        style: theme.textTheme.headline5,
+                        style: theme.textTheme.headlineSmall,
                       ),
                       SizedBox(height: 15),
                       Text(book.description!, style: bookDescription()),

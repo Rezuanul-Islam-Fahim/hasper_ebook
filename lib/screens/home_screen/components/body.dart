@@ -43,7 +43,7 @@ class HomeScreenBodyState extends State<HomeScreenBody> {
                   padding: EdgeInsets.only(left: 20),
                   child: Text(
                     'Recently Uploaded',
-                    style: Theme.of(context).textTheme.headline5,
+                    style: Theme.of(context).textTheme.headlineSmall,
                   ),
                 ),
                 SizedBox(height: 15),
@@ -55,7 +55,7 @@ class HomeScreenBodyState extends State<HomeScreenBody> {
                       padding: EdgeInsets.only(left: 20),
                       child: Text(
                         'Library',
-                        style: Theme.of(context).textTheme.headline5,
+                        style: Theme.of(context).textTheme.headlineSmall,
                       ),
                     ),
                     Spacer(),

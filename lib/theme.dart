@@ -10,11 +10,11 @@ ThemeData theme() {
       systemOverlayStyle: SystemUiOverlayStyle.light,
     ),
     textTheme: ThemeData.light().textTheme.copyWith(
-          headline5: TextStyle(
+          headlineSmall: TextStyle(
             fontSize: 18,
             fontWeight: FontWeight.bold,
           ),
-          bodyText1: TextStyle(
+          bodyLarge: TextStyle(
             fontSize: 14,
             fontWeight: FontWeight.bold,
           ),
