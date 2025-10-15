@@ -23,7 +23,7 @@ class BookDetailsHeader extends StatelessWidget {
       child: Container(
         width: double.maxFinite,
         height: double.maxFinite,
-        color: Color(0xFF6d4587).withOpacity(0.85),
+        color: Color(0xFF6d4587).withValues(alpha: 0.85),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
@@ -31,7 +31,7 @@ class BookDetailsHeader extends StatelessWidget {
               width: 140,
               height: 175,
               decoration: BoxDecoration(
-                color: Color(0xFF6d4587).withOpacity(0.85),
+                color: Color(0xFF6d4587).withValues(alpha: 0.85),
                 borderRadius: BorderRadius.circular(15),
                 boxShadow: [
                   BoxShadow(
@@ -57,7 +57,7 @@ class BookDetailsHeader extends StatelessWidget {
               ),
               child: Text(
                 book.title!,
-                style: Theme.of(context).textTheme.headline5!.copyWith(
+                style: Theme.of(context).textTheme.headlineSmall!.copyWith(
                       color: Colors.white,
                       fontWeight: FontWeight.normal,
                     ),
@@ -68,7 +68,7 @@ class BookDetailsHeader extends StatelessWidget {
             Container(
               width: MediaQuery.of(context).size.width * 0.8,
               decoration: BoxDecoration(
-                color: Color(0xFF6a418a).withOpacity(0.7),
+                color: Color(0xFF6a418a).withValues(alpha: 0.7),
                 borderRadius: BorderRadius.circular(15),
               ),
               padding: EdgeInsets.symmetric(horizontal: 40, vertical: 20),

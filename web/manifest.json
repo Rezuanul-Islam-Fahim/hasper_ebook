@@ -1,11 +1,11 @@
 {
-    "name": "hasper_ebook",
-    "short_name": "hasper_ebook",
+    "name": "Hasper eBook",
+    "short_name": "Hasper eBook",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Hasper eBook - Your digital reading companion",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

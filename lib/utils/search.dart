@@ -12,7 +12,7 @@ class Search extends SearchDelegate {
 
     return theme.copyWith(
       textTheme: ThemeData.light().textTheme.copyWith(
-            headline6: TextStyle(color: Colors.white),
+            titleLarge: TextStyle(color: Colors.white),
           ),
       appBarTheme: AppBarTheme(
         backgroundColor: Color(0xFF1d212b),
@@ -82,7 +82,7 @@ class Search extends SearchDelegate {
     return Center(
       child: Text(
         'Search For Specific Books',
-        style: Theme.of(context).textTheme.bodyText1,
+        style: Theme.of(context).textTheme.bodyLarge,
       ),
     );
   }
