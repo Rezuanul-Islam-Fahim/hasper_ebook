@@ -411,7 +411,7 @@ If you find a bug, please create an issue with:
 
 ## 🗺️ Roadmap
 
-### Current Version (v1.1.0)
+### Current Version (v1.1.1)
 - ✅ Browse books with infinite scroll
 - ✅ View book details
 - ✅ Read PDFs in-app
