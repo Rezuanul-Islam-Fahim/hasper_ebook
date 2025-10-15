@@ -19,7 +19,7 @@ An E-Book mobile app for Android & IOS devices built with Dart & Google's Flutte
 ```
 MIT License
 
-Copyright (c) 2022 Rezuanul Islam Fahim
+Copyright (c) 2022-2025 Rezuanul Islam Fahim
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
